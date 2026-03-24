@@ -8,4 +8,4 @@ Pipeline
 
 Web Page
 ===========================================
-<img width="941" height="530" alt="image" src="https://github.com/user-attachments/assets/9045e109-c200-423d-a65e-a8973bd2137e" />
+<img width="955" height="518" alt="image" src="https://github.com/user-attachments/assets/948695e4-69b6-4cf2-8c1f-a127c73e3079" />
