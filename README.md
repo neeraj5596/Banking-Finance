@@ -9,3 +9,7 @@ Pipeline
 Web Page
 ===========================================
 <img width="955" height="518" alt="image" src="https://github.com/user-attachments/assets/948695e4-69b6-4cf2-8c1f-a127c73e3079" />
+
+Monitoring
+============================================
+<img width="931" height="467" alt="image" src="https://github.com/user-attachments/assets/420995ba-85e9-433d-aad2-9247ee6dadc4" />
